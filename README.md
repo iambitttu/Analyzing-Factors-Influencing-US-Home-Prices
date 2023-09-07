@@ -4,6 +4,7 @@ Analyzing Factors Influencing US Home Prices
 ## Introduction
 
 The housing market in the United States is a complex and dynamic ecosystem influenced by a myriad of factors. Understanding the interplay between supply and demand factors and their impact on home prices is of paramount importance, not only for homeowners and potential buyers but also for policymakers and real estate professionals.
+
 This project, endeavors to shed light on the intricate relationship between key supply and demand factors and US home prices over the past two decades. The objective of this analysis is to provide valuable insights into the drivers of home price fluctuations, thereby aiding in informed decision-making and market understanding.
 
 ### Objective
